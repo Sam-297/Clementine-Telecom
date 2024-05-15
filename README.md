@@ -20,7 +20,7 @@ Chaque intervention d’un technicien à une réparation a pour détail le prix,
 
 ### Modèle UML
 
-![UML](photos/clementine.drawio.png)
+![UML](Elements_rendu/clementine.drawio.png)
 
 
 ### Modèle Relationnel
